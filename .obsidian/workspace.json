@@ -11,14 +11,12 @@
             "id": "5eff1f7caf14b188",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tấn công service cơ bản/FTP.md",
-                "mode": "source",
-                "source": false
+                "file": "Cheatsheet/Getting Started - cheatsheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "FTP"
+              "icon": "lucide-file-text",
+              "title": "Getting Started - cheatsheet"
             }
           }
         ]
@@ -185,8 +183,22 @@
   },
   "active": "5eff1f7caf14b188",
   "lastOpenFiles": [
-    "Tấn công service cơ bản/Kiến thức cơ bản về service và cách tấn công.md",
-    "Giới thiệu cơ bản.md",
-    "README.md"
+    "Cheatsheet/File Transfers - cheatsheet.pdf",
+    "Cheatsheet/Cheatsheet.md",
+    "Privilege Escalation/Privilege Escalation.md",
+    "Tools/Tmux.md",
+    "Privilege Escalation",
+    "Tools/Tools.md",
+    "Enumeration/Enumeration with Nmap.md",
+    "Enumeration/Enumeration.md",
+    "Tools/exploitdb.md",
+    "HackNote.md",
+    "README.md",
+    "Tấn công service cơ bản/Reverse shell.md",
+    "Tấn công service cơ bản/FTP.md",
+    "Tấn công service cơ bản/Attacking services.md",
+    "Cheatsheet/Getting Started - cheatsheet.pdf",
+    "Các tool ngoài lề/Chưa đặt tên",
+    "exploitdb.md"
   ]
 }

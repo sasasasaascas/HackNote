@@ -161,16 +161,31 @@ nc -lvnp <port>
 ```
 
 
-# sau khi có reverse shell xong thì thường bạn phải stable shell
 
 
-```
-python3 -c "import pty; pty.spawn('/bin/bash')" # if it doesn't have python3 then use python2 or python
-expo
-t TERM=xterm
+# Stable Shell
+
+Sau khi nhận được reverse shell, shell thường không có đầy đủ tính năng của một terminal (không hỗ trợ Ctrl+C, tab completion, vim, nano,...). Vì vậy cần nâng cấp (stabilize) shell.
+
+```bash
+python3 -c "import pty; pty.spawn('/bin/bash')"
+
+# Nếu không có python3 thì thử:
+python -c "import pty; pty.spawn('/bin/bash')"
+
+export TERM=xterm
+
+# Background shell
 Ctrl + Z
-stty raw -echo && fg
-enter
-enter
 
+stty raw -echo && fg
+
+# Nhấn Enter hai lần
 ```
+
+
+# Trang web chứa payload
+
+- https://www.revshells.com/
+- https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet
