@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Cheatsheet/Getting Started - cheatsheet.pdf"
+                "file": "Cheatsheet/Network Enumeration with Nmap - cheatsheet.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Getting Started - cheatsheet"
+              "title": "Network Enumeration with Nmap - cheatsheet"
             }
           }
         ]
@@ -183,21 +183,23 @@
   },
   "active": "5eff1f7caf14b188",
   "lastOpenFiles": [
-    "Cheatsheet/File Transfers - cheatsheet.pdf",
     "Cheatsheet/Cheatsheet.md",
+    "Cheatsheet/Network Enumeration with Nmap - cheatsheet.pdf",
+    "Cheatsheet/Không được xác nhận 213091.crdownload",
+    "Cheatsheet/File Transfers - cheatsheet.pdf",
+    "Cheatsheet/Getting Started - cheatsheet.pdf",
+    "Enumeration/Enumeration with Nmap.md",
+    "Enumeration/Enumeration.md",
     "Privilege Escalation/Privilege Escalation.md",
     "Tools/Tmux.md",
     "Privilege Escalation",
     "Tools/Tools.md",
-    "Enumeration/Enumeration with Nmap.md",
-    "Enumeration/Enumeration.md",
     "Tools/exploitdb.md",
     "HackNote.md",
     "README.md",
     "Tấn công service cơ bản/Reverse shell.md",
     "Tấn công service cơ bản/FTP.md",
     "Tấn công service cơ bản/Attacking services.md",
-    "Cheatsheet/Getting Started - cheatsheet.pdf",
     "Các tool ngoài lề/Chưa đặt tên",
     "exploitdb.md"
   ]
