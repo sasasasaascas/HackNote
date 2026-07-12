@@ -2,7 +2,7 @@
 
 # Các chức năng của Nmap
 
-- Host Discovery: xem host nào đang hoạt động (rất phù hợp khi hệ thống cho 1 dải mạng)
+- [[Host Discovery]]: xem host nào đang hoạt động (rất phù hợp khi hệ thống cho 1 dải mạng)
 - Port scanning: gõ cửa xem port nào mở
 - Service scanning:  service nào?
 - version scanning: version?
@@ -40,4 +40,5 @@ nmap -p- <ip>
 ```
 
 
+# đọc ở đây để xem tất cả các options của Nmap: [[Network Enumeration with Nmap - cheatsheet.pdf]]
 

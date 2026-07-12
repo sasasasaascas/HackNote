@@ -8,3 +8,5 @@
 
 # [[Cheatsheet]]
 
+# [[Privilege Escalation]]
+
