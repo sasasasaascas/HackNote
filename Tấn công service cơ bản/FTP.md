@@ -2,6 +2,5 @@
 
 # Tổng quan về FTP protocol
 
-- 
-- Nó sử dụng port TCP/21
+- Mặc định sử dụng cổng 21/TCP
 
