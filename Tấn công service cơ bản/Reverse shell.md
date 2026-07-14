@@ -179,7 +179,7 @@ export TERM=xterm
 Ctrl + Z
 
 
-
+	stty -echo && fg
 
 # Nhấn Enter hai lần
 ```
