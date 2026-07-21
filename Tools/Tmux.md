@@ -126,7 +126,4 @@ Ctrl+b [      Copy mode
 Ctrl+b ]      Paste
 
 
-==xin chào khiêm== 
-
-
 ![[Getting Started - cheatsheet.pdf]]
