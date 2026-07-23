@@ -40,5 +40,6 @@ nmap -p- <ip>
 ```
 
 
-# đọc ở đây để xem tất cả các options của Nmap: [[Network Enumeration with Nmap - cheatsheet.pdf]]
+# đọc ở đây để xem tất cả các options của Nmap: ![[Network Enumeration with Nmap - cheatsheet.pdf]]
+
 

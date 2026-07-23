@@ -12,3 +12,6 @@
 
 ## [[Medusa]]
 
+# [[John the ripper]]
+
+# [[Hashcat]]

@@ -1,5 +1,6 @@
 
 
+
 # Reverse shell cơ bản là làm cho cái máy Victim chủ động gửi shell sang listener (Attacker). Vì nó là chủ động từ phía Victim nên khó bị firewall/NAT đánh chặn
 
 

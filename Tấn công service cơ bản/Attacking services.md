@@ -5,14 +5,3 @@
 
 ## [[FTP]]
 
-
-
-
-## Các kĩ thuật cần nắm trong khi hack
-## [[Reverse shell]]
-
-
-
-
-
-]

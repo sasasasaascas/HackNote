@@ -10,3 +10,8 @@
 
 # [[Privilege Escalation]]
 
+# [[Tools]]
+
+# [[Reporting]]
+
+# [[Shells and Payloads + Metasploit]]
