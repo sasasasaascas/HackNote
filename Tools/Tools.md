@@ -15,3 +15,6 @@
 # [[John the ripper]]
 
 # [[Hashcat]]
+
+# [[Wifite]]
+

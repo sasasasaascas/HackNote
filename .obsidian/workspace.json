@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27a3520eb31836b7",
+        "id": "c91558886068b027",
         "type": "tabs",
         "children": [
           {
-            "id": "5eff1f7caf14b188",
+            "id": "19b7db86c6dd3a7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tmux.md",
+                "file": "Msfvenom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tmux"
+              "title": "Msfvenom"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Trình duyệt tệp"
@@ -183,43 +185,42 @@
       "bases:Tạo cơ sở mới": false
     }
   },
-  "active": "5eff1f7caf14b188",
+  "active": "19b7db86c6dd3a7f",
   "lastOpenFiles": [
-    "Tools/Nmap.md",
+    "HackNote.md",
+    "Shells and Payloads + Metasploit/Reverse Shell.md",
+    "Tools/Hydra.md",
     "Tools/Tmux.md",
     "Tools/Tools.md",
-    "Tools/Medusa.md",
-    "Shells and Payloads + Metasploit/Reverse Shell.md",
+    "Cheatsheet/Attacking Web Applications with Ffuf - cheatsheet.pdf",
+    "Cheatsheet/Network Enumeration with Nmap - cheatsheet.pdf",
+    "Cheatsheet/Password Attacks - cheatsheet.pdf",
+    "Cheatsheet/Pivoting, Tunneling, and Port Forwarding - cheatsheet.pdf",
+    "Cheatsheet/SQL Injection Fundamentals - cheatsheet.pdf",
+    "Cheatsheet/Web Requests - cheatsheet.pdf",
+    "Enumeration/Enumeration with Nmap/Host Discovery.md",
+    "Pictures/Pictures.md",
+    "Wifite.md",
+    "Tools/Nmap.md",
+    "Tools/John the ripper.md",
+    "Msfvenom.md",
     "Shells and Payloads + Metasploit/Shells and Payloads + Metasploit.md",
-    "Privilege Escalation/Privilege Escalation.md",
-    "Privilege Escalation/Pages and Scripts.md",
+    "Tools/Medusa.md",
+    "Tools/Hashcat.md",
     "Tấn công service cơ bản/Attacking services.md",
     "Tấn công service cơ bản/FTP.md",
-    "Tools/John the ripper.md",
-    "Tools/exploitdb.md",
-    "Tools/Hashcat.md",
-    "Tools/Hydra.md",
-    "Web exploitation/Web cơ bản/Khái quát về web.md",
-    "Web exploitation/Web cơ bản/Basic Web.md",
-    "Khái quát về web.md",
-    "Web exploitation/Web Enumeration/Web Enumeration.md",
-    "HackNote.md",
-    "Reporting/Reporting.md",
-    "Shells and Payloads + Metasploit",
-    "Tấn công service cơ bản/Reverse shell.md",
+    "Enumeration/Enumeration.md",
     "Enumeration/Enumeration with Nmap/Enumeration with Nmap.md",
-    "Enumeration/Enumeration with Nmap/Host Discovery.md",
+    "Web exploitation/Web cơ bản/Basic Web.md",
+    "Web exploitation/Web cơ bản/Khái quát về web.md",
+    "Web exploitation/Web Enumeration/Web Enumeration.md",
+    "Privilege Escalation/Privilege Escalation.md",
+    "Privilege Escalation/Pages and Scripts.md",
+    "Tools/exploitdb.md",
+    "Khái quát về web.md",
+    "Shells and Payloads + Metasploit",
     "Cheatsheet/Login Brute Forcing - cheatsheet.pdf",
     "Web exploitation/Web cơ bản/Chưa đặt tên",
-    "Tools/Hashcat",
-    "Privilege Escalation/Linux/Linux.md",
-    "Privilege Escalation/Windows/Windows.md",
-    "Pictures/Pictures.md",
-    "Pictures",
-    "Cheatsheet/SQL Injection Fundamentals - cheatsheet.pdf",
-    "Cheatsheet/Không được xác nhận 78396.crdownload",
-    "Cheatsheet/Windows Fundamentals - cheatsheet.pdf",
-    "Cheatsheet/Không được xác nhận 314175.crdownload",
-    "Web exploitation/Web Enumeration"
+    "Tools/Hashcat"
   ]
 }
