@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Msfvenom.md",
+                "file": "Shells and Payloads + Metasploit/Reverse Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Msfvenom"
+              "title": "Reverse Shell"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "19b7db86c6dd3a7f",
   "lastOpenFiles": [
+    "Privilege Escalation/Pages and Scripts.md",
+    "Privilege Escalation/Windows/Windows.md",
+    "Msfvenom.md",
     "HackNote.md",
     "Shells and Payloads + Metasploit/Reverse Shell.md",
     "Tools/Hydra.md",
@@ -203,7 +206,6 @@
     "Wifite.md",
     "Tools/Nmap.md",
     "Tools/John the ripper.md",
-    "Msfvenom.md",
     "Shells and Payloads + Metasploit/Shells and Payloads + Metasploit.md",
     "Tools/Medusa.md",
     "Tools/Hashcat.md",
@@ -215,7 +217,6 @@
     "Web exploitation/Web cơ bản/Khái quát về web.md",
     "Web exploitation/Web Enumeration/Web Enumeration.md",
     "Privilege Escalation/Privilege Escalation.md",
-    "Privilege Escalation/Pages and Scripts.md",
     "Tools/exploitdb.md",
     "Khái quát về web.md",
     "Shells and Payloads + Metasploit",
