@@ -11,10 +11,14 @@
             "id": "74be34b249234e10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Xem biểu đồ"
+              "type": "markdown",
+              "state": {
+                "file": "Write-up/Nibbles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nibbles"
             }
           }
         ]
@@ -184,20 +188,22 @@
   "active": "74be34b249234e10",
   "lastOpenFiles": [
     "Write-up/Write-up.md",
-    "Write-up/Brooklyn Nine Nine.md",
+    "Write-up/Nibbles.md",
+    "images/Pasted image 20260927170957.png",
+    "Pasted image 20260927170555.png",
+    "Pasted image 20260927170123.png",
+    "Pasted image 20260927165839.png",
+    "Pasted image 20260927165320.png",
+    "Pasted image 20260927164819.png",
+    "Pasted image 20260927164523.png",
+    "Pasted image 20260927164456.png",
+    "Cheatsheet/File Upload Attacks - cheatsheet.pdf",
+    "Pasted image 20260927110545.png",
+    "Pasted image 20260927105004.png",
     "Write-up/Agent T.md",
+    "Write-up/Brooklyn Nine Nine.md",
     "README.md",
     "images/README.md",
-    "images/Pasted image 20260926231741.png",
-    "images/Pasted image 20260926231730.png",
-    "images/Pasted image 20260926231719.png",
-    "images/Pasted image 20260926231709.png",
-    "images/Pasted image 20260926231646.png",
-    "Pasted image 20260926231741.png",
-    "Pasted image 20260926231730.png",
-    "Pasted image 20260926231719.png",
-    "Pasted image 20260926231709.png",
-    "Pasted image 20260926231646.png",
     "images",
     "Privilege Escalation/Privilege Escalation.md",
     "Write-up",

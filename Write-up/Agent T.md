@@ -6,6 +6,12 @@
 
 ### 1. Nmap
 
+
+```bash
+nmap -sC -sV <ip>
+```
+
+
 Kết quả Nmap
 
 ![[Pasted image 20260926231646.png]]
