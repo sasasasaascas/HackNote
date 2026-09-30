@@ -10,6 +10,7 @@
 
 ## [[Agent T]]
 
+## [[Pickle Rick]]
 
 
 # Hackthebox

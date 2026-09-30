@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write-up/Nibbles.md",
+                "file": "Privilege Escalation/Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nibbles"
+              "title": "Privilege Escalation"
             }
           }
         ]
@@ -187,22 +187,23 @@
   },
   "active": "74be34b249234e10",
   "lastOpenFiles": [
-    "Write-up/Write-up.md",
+    "Write-up/Pickle Rick.md",
+    "Pasted image 20260927212256.png",
+    "Pasted image 20260927212153.png",
+    "Pasted image 20260927212122.png",
+    "Pasted image 20260927212029.png",
     "Write-up/Nibbles.md",
-    "images/Pasted image 20260927170957.png",
-    "Pasted image 20260927170555.png",
-    "Pasted image 20260927170123.png",
-    "Pasted image 20260927165839.png",
-    "Pasted image 20260927165320.png",
-    "Pasted image 20260927164819.png",
-    "Pasted image 20260927164523.png",
-    "Pasted image 20260927164456.png",
+    "Pasted image 20260927211830.png",
+    "Pasted image 20260927211511.png",
+    "Pasted image 20260927210809.png",
+    "Pasted image 20260927210644.png",
+    "Pasted image 20260927210501.png",
+    "Pasted image 20260927210414.png",
+    "Write-up/Write-up.md",
+    "README.md",
     "Cheatsheet/File Upload Attacks - cheatsheet.pdf",
-    "Pasted image 20260927110545.png",
-    "Pasted image 20260927105004.png",
     "Write-up/Agent T.md",
     "Write-up/Brooklyn Nine Nine.md",
-    "README.md",
     "images/README.md",
     "images",
     "Privilege Escalation/Privilege Escalation.md",
