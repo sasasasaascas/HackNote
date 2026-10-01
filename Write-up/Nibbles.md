@@ -149,3 +149,9 @@ sudo /home/nibbler/personal/stuff/monitor.sh
 - Reverse shell
 - Local Privilege Escalation
 
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a0bde34712f1161",
+        "id": "95c5fa1331e71303",
         "type": "tabs",
         "children": [
           {
-            "id": "74be34b249234e10",
+            "id": "7e504415bc5903cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Privilege Escalation.md",
+                "file": "Write-up/Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privilege Escalation"
+              "title": "Management"
             }
           }
         ]
@@ -185,28 +185,33 @@
       "bases:Tạo cơ sở mới": false
     }
   },
-  "active": "74be34b249234e10",
+  "active": "81a6e45340d24eaa",
   "lastOpenFiles": [
-    "Write-up/Pickle Rick.md",
-    "Pasted image 20260927212256.png",
-    "Pasted image 20260927212153.png",
-    "Pasted image 20260927212122.png",
-    "Pasted image 20260927212029.png",
-    "Write-up/Nibbles.md",
-    "Pasted image 20260927211830.png",
-    "Pasted image 20260927211511.png",
-    "Pasted image 20260927210809.png",
-    "Pasted image 20260927210644.png",
-    "Pasted image 20260927210501.png",
-    "Pasted image 20260927210414.png",
+    "images/Pasted image 20261001154625.png",
+    "images/Pasted image 20261001154551.png",
+    "images/Pasted image 20261001152908.png",
+    "images/Pasted image 20261001152732.png",
+    "images/Pasted image 20261001152620.png",
+    "images/Pasted image 20261001152601.png",
+    "images/Pasted image 20261001151648.png",
+    "images/Pasted image 20261001151556.png",
+    "images/Pasted image 20261001150917.png",
+    "images/Pasted image 20261001150157.png",
+    "images/Pasted image 20261001150052.png",
+    "Write-up/Management.md",
     "Write-up/Write-up.md",
-    "README.md",
+    "Cheatsheet/Getting Started - cheatsheet.pdf",
+    "Cheatsheet/Attacking Web Applications with Ffuf - cheatsheet.pdf",
+    "Cheatsheet/Không được xác nhận 587340.crdownload",
     "Cheatsheet/File Upload Attacks - cheatsheet.pdf",
+    "Write-up/Pickle Rick.md",
+    "Write-up/Nibbles.md",
+    "README.md",
+    "Privilege Escalation/Privilege Escalation.md",
     "Write-up/Agent T.md",
     "Write-up/Brooklyn Nine Nine.md",
     "images/README.md",
     "images",
-    "Privilege Escalation/Privilege Escalation.md",
     "Write-up",
     "Cheatsheet/Cheatsheet.md",
     "Cheatsheet",
