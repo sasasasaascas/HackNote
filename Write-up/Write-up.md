@@ -12,6 +12,7 @@
 
 ## [[Pickle Rick]]
 
+## [[Fools Mate]]
 
 # Hackthebox
 
