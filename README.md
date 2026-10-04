@@ -7,9 +7,8 @@
 
 ## [[Privilege Escalation]]
 
-## [[Network Enumeration with Nmap]]
 
-## [[]]
+## [[Enumeration]]
 
 
 
