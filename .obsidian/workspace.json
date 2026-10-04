@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Pentest/Command Injections.md",
+                "file": "Web Pentest/Login Brute Force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command Injections"
+              "title": "Login Brute Force"
             }
           }
         ]
@@ -187,22 +187,38 @@
   },
   "active": "7e504415bc5903cb",
   "lastOpenFiles": [
-    "Web Pentest/Basic web.md",
-    "Web Pentest/Command Injections.md",
     "Web Pentest/Web Pentest.md",
+    "Web Pentest/Login Brute Force.md",
+    "Web Pentest/Command Injections.md",
+    "Tools/vim.md",
+    "Tools/cupp.md",
+    "Enumeration/Enumeration.md",
+    "Privilege Escalation/Privilege Escalation.md",
+    "Privilege Escalation/Windows/Windows.md",
+    "Tools/username-anarchy.md",
+    "Tools/Tools.md",
+    "Tools/tmux.md",
+    "Tools/hydra.md",
+    "Tools/medusa.md",
+    "Write-up/Write-up.md",
+    "README.md",
+    "Write-up/Pickle Rick.md",
+    "Cheatsheet/Using the Metasploit Framework - cheatsheet.pdf",
+    "Write-up/Management.md",
+    "Write-up/Brooklyn Nine Nine.md",
+    "Cheatsheet/Getting Started - cheatsheet.pdf",
+    "Cheatsheet/Information Gathering - Web Edition - cheatsheet.pdf",
+    "Cheatsheet/Attacking Web Applications with Ffuf - cheatsheet.pdf",
+    "Privilege Escalation/Linux/Linux.md",
+    "Write-up/Nibbles.md",
+    "Web Pentest/Basic web.md",
+    "Tools",
     "images/Pasted image 20261004143008.png",
     "images/Pasted image 20261004002836.png",
     "Write-up/Agent T.md",
     "Web Pentest",
     "Write-up/Fools Mate.md",
-    "Write-up/Management.md",
-    "Write-up/Write-up.md",
-    "Enumeration/Enumeration.md",
-    "README.md",
     "Enumeration",
-    "Write-up/Nibbles.md",
-    "Write-up/Pickle Rick.md",
-    "Write-up/Brooklyn Nine Nine.md",
     "images/Pasted image 20261003232359.png",
     "images/Pasted image 20261003231900.png",
     "images/Pasted image 20261003231651.png",
@@ -210,19 +226,11 @@
     "images/Pasted image 20261003230031.png",
     "images/Pasted image 20261003225845.png",
     "Cheatsheet/Chuông Báo Thức Quân Đội.mp3",
-    "Privilege Escalation/Windows/Windows.md",
-    "Privilege Escalation/Privilege Escalation.md",
-    "Privilege Escalation/Linux/Linux.md",
     "images/Pasted image 20261001154625.png",
     "images/Pasted image 20261001154551.png",
-    "Cheatsheet/Getting Started - cheatsheet.pdf",
-    "Cheatsheet/Attacking Web Applications with Ffuf - cheatsheet.pdf",
     "Cheatsheet/Không được xác nhận 587340.crdownload",
     "Cheatsheet/File Upload Attacks - cheatsheet.pdf",
     "images/README.md",
-    "images",
-    "Write-up",
-    "Cheatsheet/Cheatsheet.md",
-    "Cheatsheet"
+    "Cheatsheet/Cheatsheet.md"
   ]
 }
