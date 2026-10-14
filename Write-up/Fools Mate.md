@@ -1,10 +1,9 @@
 
 ![[Pasted image 20261003225845.png]]
 
-# Link máy: https://tryhackme.com/room/foolsmate
 
-
-# Véc-tơ tấn công: web -> Burp-suite -> phân tích source code -> API abuse -> flag.
+# Véc-tơ tấn công: 
+web -> Burp-suite -> phân tích source code -> API abuse -> flag.
 
 # Enumeration
 

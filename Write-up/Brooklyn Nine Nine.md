@@ -1,5 +1,5 @@
 
-
+![[Pasted image 20261014162224.png]]
 # Link máy: [https://tryhackme.com/room/brooklynninenine](https://tryhackme.com/room/brooklynninenine)
 
 ## Mô tả: well nó là 1 máy khá là hiển nhiên dạy về Web Enumeration, Steganography và Privilege Escalation

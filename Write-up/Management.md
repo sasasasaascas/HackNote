@@ -2,10 +2,12 @@
 
 ![[Pasted image 20261001072047.png]]
 
-# Link máy: https://app.hackthebox.com/machines/Management?sort_by=created_at&sort_type=desc
 
 
-# Véc tơ tấn công: Nmap -> cổng web 80,443,22 và có domain name management.htb -> vhost enumeration -> phát hiện sso.management.htb đang chạy openAM -> lỗ hổng unauthenticated Remote Code Execusion -> reverse shell gain foothold openam -> Enumerate hệ thống thì thấy chạy glpi database và file config chứa credentials của nó và glpi key -> đăng nhập thì thấy LDAP -> kết hợp với glpi key để ra được mật khẩu của user owen -> ssh vào foothold của owen -> sudo -l -> câu lệnh root-backup chạy được với quyền root -> backup được root folder -> key-rsa của root -> root (hoặc đơn giản là đọc luôn root flag)
+# Véc tơ tấn công: 
+openAM: Nmap -> cổng web 80,443,22 và có domain name management.htb -> vhost enumeration -> phát hiện sso.management.htb đang chạy openAM -> lỗ hổng unauthenticated Remote Code Execusion -> reverse shell -> foothold openam 
+Owen: System enumeration -> database credentials -> Database enumeration -> LDAP -> glpi key + LDAP để crack mật khẩu -> owens credential -> SSH -> foothold as owen 
+Root: system Enumeration -> câu lệnh root-backup chạy được với quyền root -> backup được root folder -> key-rsa của root -> root (hoặc đơn giản là đọc luôn root flag)
 
 
 # 1. Nmap scan

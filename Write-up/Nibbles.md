@@ -1,7 +1,10 @@
-# Link máy: https://app.hackthebox.com/machines/Nibbles?sort_by=created_at&sort_type=desc
+
 
 ![[Pasted image 20260927170957.png]]
-# véc tơ tấn công: Nmap -> cổng 80 http web apache -> xem source code -> có nibbleblog -> CVE-2015-6967 (hoặc chơi metasploit hoặc do it yourself) -> có foothold Nibbler -> sudo -l ra SUID root -> root
+# véc tơ tấn công: 
+Nibbler: Nmap -> cổng 80 http web apache -> xem source code -> có nibbleblog -> CVE-2015-6967 (hoặc chơi metasploit hoặc do it yourself) -> có foothold Nibbler 
+
+root: sudo -l -> SUID root -> root
 
 
 # 1. Nmap

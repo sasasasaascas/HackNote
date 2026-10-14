@@ -2,6 +2,10 @@
 ![[Pasted image 20260927205431.png]]
 
 
+# Véc tơ tấn công
+
+- www-data: Nmap -> 80,443 -> web enumearation -> code injection -> reverse shell as www-data
+- root: system enumeration -> SUID binary -> root
 # 1. Nmap
 
 

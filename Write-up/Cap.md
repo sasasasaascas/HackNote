@@ -1,11 +1,15 @@
 
-# Lời nói đầu: đây thực sự là bài đầu tiên tôi giải sau khi học được Hackthebox 1 lúc đấy
+![[Pasted image 20261014162148.png]]
+
+# Lời nói đầu: 
+đây thực sự là bài đầu tiên tôi giải sau khi học được Hackthebox 1 lúc đấy
 
 
 
 
-
-# Véc tơ tấn công: Nmap -> web-enumearation -> PCAP file credential stealing -> nathans credential -> FTP -> reuse credential -> SSH -> shell as Nathan -> cap binary exploitation python3.8 -> setuid(0) -> shell as root
+# Véc tơ tấn công: 
+nathan: Nmap -> web-enumearation -> PCAP file credential stealing -> nathans credential -> FTP -> reuse credential -> SSH -> shell as Nathan
+root: system enumeration -> capability binary exploitation python3.8 -> setuid(0) -> shell as root
 
 
 # Enumeration

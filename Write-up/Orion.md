@@ -6,6 +6,7 @@
 - www-data: Nmap -> web -> phát hiện craftcms -> CVE-2025-32432 -> www-data shell
 - adam: env -> root database password -> Database enumearation -> adam password bcrypt hash -> hashcat -> adam credentials for ssh -> shell
 - root: system enumeration -> root nghe cổng 23 telnet -> telnet version 2.7 -> CVE-2026-24061 daemon bypass authentication -> shell
+
 # Enumeration with Nmap
 
 ![[Pasted image 20261013233725.png]]
