@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write-up/Cap.md",
+                "file": "Write-up/Orion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap"
+              "title": "Orion"
             }
           }
         ]
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Write-up/Orion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Write-up/Orion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Write-up/Orion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,12 +170,12 @@
               "title": "Đề cương"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,18 +190,20 @@
   },
   "active": "7e504415bc5903cb",
   "lastOpenFiles": [
-    "images/Pasted image 20261013150944.png",
-    "images/Pasted image 20261013150414.png",
-    "images/Pasted image 20261013150147.png",
-    "images/Pasted image 20261013145941.png",
-    "images/Pasted image 20261013145519.png",
-    "images/Pasted image 20261013145327.png",
-    "images/Pasted image 20261013145033.png",
-    "images/Pasted image 20261013144933.png",
-    "images/Pasted image 20261013144755.png",
-    "images/Pasted image 20261013144614.png",
-    "images/Pasted image 20261013144458.png",
+    "images/Pasted image 20261014125922.png",
+    "images/Pasted image 20261014112319.png",
+    "images/Pasted image 20261014112307.png",
+    "images/Pasted image 20261014112031.png",
+    "images/Pasted image 20261014111720.png",
+    "images/Pasted image 20261013234428.png",
+    "images/Pasted image 20261013234210.png",
+    "images/Pasted image 20261013234119.png",
+    "images/Pasted image 20261013233725.png",
+    "Pasted image 20261014125922.png",
+    "Pasted image 20261014112319.png",
     "Write-up/Write-up.md",
+    "Write-up/Orion.md",
+    "Write-up/Brooklyn Nine Nine.md",
     "Write-up/Cap.md",
     "README.md",
     "Privilege Escalation/Privilege Escalation.md",
@@ -218,7 +223,6 @@
     "Write-up/Pickle Rick.md",
     "Cheatsheet/Using the Metasploit Framework - cheatsheet.pdf",
     "Write-up/Management.md",
-    "Write-up/Brooklyn Nine Nine.md",
     "Cheatsheet/Getting Started - cheatsheet.pdf",
     "Cheatsheet/Information Gathering - Web Edition - cheatsheet.pdf",
     "Cheatsheet/Attacking Web Applications with Ffuf - cheatsheet.pdf",
@@ -228,7 +232,6 @@
     "Tools",
     "Write-up/Agent T.md",
     "Web Pentest",
-    "Write-up/Fools Mate.md",
     "Enumeration",
     "Cheatsheet/Chuông Báo Thức Quân Đội.mp3",
     "Cheatsheet/Không được xác nhận 587340.crdownload",
