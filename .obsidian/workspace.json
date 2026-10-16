@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write-up/Pickle Rick.md",
+                "file": "Write-up/Twomillion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pickle Rick"
+              "title": "Twomillion"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write-up/Pickle Rick.md",
+                "file": "Write-up/Twomillion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,42 +191,42 @@
   },
   "active": "7e504415bc5903cb",
   "lastOpenFiles": [
-    "images/Pasted image 20261015214859.png",
-    "images/Pasted image 20261015205123.png",
-    "images/Pasted image 20261015204915.png",
-    "images/Pasted image 20261015204822.png",
-    "images/Pasted image 20261015204755.png",
-    "images/Pasted image 20261015200032.png",
-    "Pasted image 20261015214859.png",
-    "README.md",
-    "Pasted image 20261015205123.png",
-    "Pasted image 20261015204755.png",
-    "Pasted image 20261015200032.png",
-    "Tools/hydra.md",
-    "Tools/Tools.md",
-    "Tools/tmux.md",
-    "Tools/medusa.md",
-    "Tools/cupp.md",
-    "Tools/vim.md",
-    "Tools/username-anarchy.md",
-    "Write-up/Bedside.md",
-    "Pasted image 20261015204915.png",
+    "images/Pasted image 20261017001839.png",
+    "images/Pasted image 20261017001614.png",
+    "images/Pasted image 20261017000259.png",
+    "images/Pasted image 20261017000143.png",
+    "images/Pasted image 20261017000127.png",
+    "images/Pasted image 20261017000050.png",
+    "images/Pasted image 20261016235546.png",
+    "images/Pasted image 20261016235124.png",
+    "images/Pasted image 20261016234520.png",
+    "images/Pasted image 20261016234433.png",
+    "images/Pasted image 20261016233206.png",
     "Write-up/Write-up.md",
-    "Write-up/Brooklyn Nine Nine.md",
+    "Write-up/Twomillion.md",
+    "Write-up/Pickle Rick.md",
+    "Write-up/Orion.md",
+    "Write-up/Management.md",
     "Write-up/Agent T.md",
+    "Write-up/Bedside.md",
+    "Write-up/Brooklyn Nine Nine.md",
     "Write-up/Cap.md",
     "Write-up/Cohort.md",
     "Write-up/Devhub.md",
     "Write-up/Fools Mate.md",
-    "Write-up/Management.md",
+    "Tools/vim.md",
+    "Tools/username-anarchy.md",
+    "Tools/Tools.md",
     "Write-up/Nibbles.md",
-    "Write-up/Orion.md",
-    "Write-up/Pickle Rick.md",
+    "README.md",
+    "Tools/hydra.md",
+    "Tools/tmux.md",
+    "Tools/medusa.md",
+    "Tools/cupp.md",
     "Privilege Escalation/Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows.md",
     "Web Pentest/Login Brute Force.md",
     "Web Pentest/Web Pentest.md",
-    "Web Pentest/Command Injections.md",
     "Cheatsheet/Using the Metasploit Framework - cheatsheet.pdf",
     "Cheatsheet/Getting Started - cheatsheet.pdf",
     "Cheatsheet/Information Gathering - Web Edition - cheatsheet.pdf",
