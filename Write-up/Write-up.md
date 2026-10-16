@@ -32,3 +32,7 @@
 # Hackthebox - medium
 
 ## [[Devhub]]
+
+## [[Bedside]]
+
+

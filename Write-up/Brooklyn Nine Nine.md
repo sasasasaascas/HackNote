@@ -1,10 +1,12 @@
 
 ![[Pasted image 20261014162224.png]]
-# Link máy: [https://tryhackme.com/room/brooklynninenine](https://tryhackme.com/room/brooklynninenine)
+# Link máy: 
+
 
 ## Mô tả: well nó là 1 máy khá là hiển nhiên dạy về Web Enumeration, Steganography và Privilege Escalation
 
-## Véc tơ tấn công: Enumeration bằng Nmap → phát hiện cổng 80 và 22 → Steganography Credential hidden → credential → ssh → foothold → System Enumeration → SUID → root
+## Véc tơ tấn công:
+Enumeration bằng Nmap → phát hiện cổng 80 và 22 → Steganography Credential hidden → credential → ssh → foothold → System Enumeration → SUID → root
 
 ## 1. Nmap Enumeration
 
