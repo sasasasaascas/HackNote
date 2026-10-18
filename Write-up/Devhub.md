@@ -1,4 +1,4 @@
-
+![[Pasted image 20261019011332.png]]
 
 # Lời nói đặc biệt
 Đây là bài lab cấp medium đầu tiên tôi từng làm
