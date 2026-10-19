@@ -17,6 +17,8 @@
 # Hackthebox - easy
 
 
+## [[Enigma]]
+
 ## [[Nibbles]]
 
 ## [[Management]]

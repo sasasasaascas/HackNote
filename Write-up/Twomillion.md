@@ -179,5 +179,7 @@ thế là về cơ bản chúng ta có root
 
 - Phân chia quyền API hợp lý và tránh việc IDOR sử dụng endpoint api trái phép
 
+- Đừng có giấu code thật ở front-end
 
-- Sử dụng luật và filter để tránh code injection tại các endpoints
+- Sử dụng luật và filter để tránh code injection tại các endpoints, thiết lập tường lửa đánh chặn, lọc các input độc hại
+
