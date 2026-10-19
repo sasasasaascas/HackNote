@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write-up/Connected.md",
+                "file": "Tools/vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connected"
+              "title": "vim"
             }
           }
         ]
@@ -191,6 +191,14 @@
   },
   "active": "7e504415bc5903cb",
   "lastOpenFiles": [
+    "Tools/Tools.md",
+    "Tools/username-anarchy.md",
+    "Tools/tmux.md",
+    "Tools/vim.md",
+    "Tools/medusa.md",
+    "Tools/cupp.md",
+    "Tools/hydra.md",
+    "Write-up/Connected.md",
     "Pasted image 20261019015439.png",
     "Pasted image 20261019014938.png",
     "Pasted image 20261019014443.png",
@@ -207,23 +215,14 @@
     "Write-up/Pickle Rick.md",
     "Write-up/Twomillion.md",
     "Write-up/Write-up.md",
-    "Write-up/Connected.md",
     "images/Pasted image 20261017232447.png",
     "images/Pasted image 20261017232214.png",
-    "images/Pasted image 20261017231939.png",
     "Write-up/Agent T.md",
     "Write-up/Bedside.md",
     "Write-up/Brooklyn Nine Nine.md",
     "Write-up/Cap.md",
     "Write-up/Cohort.md",
-    "Tools/vim.md",
-    "Tools/username-anarchy.md",
-    "Tools/Tools.md",
     "README.md",
-    "Tools/hydra.md",
-    "Tools/tmux.md",
-    "Tools/medusa.md",
-    "Tools/cupp.md",
     "Privilege Escalation/Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows.md",
     "Web Pentest/Login Brute Force.md",
