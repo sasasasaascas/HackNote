@@ -1,7 +1,13 @@
 
 
+
 # Véc tơ tấn công
 
+www-data: Nmap -> NFS enumeration -> kevins credentials -> web enumeration -> sarah reuse default passwords -> subdomain discovered-> OpenSTAManager 2.9.8 -> RCE exploit -> www-data
+
+haris: System Enumeration -> DB credentials -> DB enumeration -> haris passwords -> crack the hash -> haris credentials -> shell as haris
+
+root: system enumeration ->  oliverTin 3000.10.0 running at port 1337 -> DB OS command injection -> create SUID binary -> root.
 
 
 # Nmap Enumeration
@@ -105,6 +111,7 @@ về cơ bản chúng ta có credentials kevin:Enigma2024! và subdomain mail001
 
 lưu lại
 ![[Pasted image 20261019141624.png]]
+# Web Enumeration
 
 ![[Pasted image 20261019142308.png]]
 
