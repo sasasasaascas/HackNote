@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/Enumeration.md",
+                "file": "Privilege Escalation/Linux/Linux Enumeration/Linux Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "Linux Enumeration"
             }
           }
         ],
@@ -206,15 +206,28 @@
   },
   "active": "e62fce3915081a9f",
   "lastOpenFiles": [
+    "Privilege Escalation/Linux/Linux Enumeration/Environment Enumeration.md",
+    "Privilege Escalation/Linux/Linux Enumeration/Linux Enumeration.md",
+    "Privilege Escalation/Linux/Linux.md",
+    "Privilege Escalation/Linux/Linux Enumeration",
+    "Privilege Escalation/Linux/Linux Enumeration 1.md",
+    "Privilege Escalation/Linux/Linux Enumeration.md",
+    "Privilege Escalation/Privilege Escalation.md",
+    "README.md",
+    "Write-up/Bedside.md",
+    "Write-up/Write-up.md",
+    "Write-up/Management.md",
+    "Write-up/Enigma.md",
+    "Write-up/Connected.md",
+    "Write-up/Agent T.md",
+    "Write-up/Devhub.md",
+    "Write-up/Cohort.md",
+    "Enumeration/Enumeration.md",
     "Active Directory and Pivoting, Tunneling, port forwarding/Pivoting, Tunneling and port forwarding.md",
     "Active Directory and Pivoting, Tunneling, port forwarding/Active Directory and Pivoting, Tunneling, port forwarding.md",
     "Active Directory and Pivoting, Tunneling, port forwarding/Active Directory Enumeration & Attacks.md",
-    "Write-up/Write-up.md",
     "Active Directory and Pivoting, Tunneling, port forwarding",
     "Write-up/Fools Mate.md",
-    "Write-up/Enigma.md",
-    "Write-up/Devhub.md",
-    "Write-up/Management.md",
     "Write-up/Nibbles.md",
     "Write-up/Orion.md",
     "Write-up/Twomillion.md",
@@ -231,18 +244,6 @@
     "Tools/tmux.md",
     "Tools/Tools.md",
     "Tools/vim.md",
-    "Tools/username-anarchy.md",
-    "Tools/medusa.md",
-    "Tools/cupp.md",
-    "Tools/hydra.md",
-    "Write-up/Connected.md",
-    "Write-up/Pickle Rick.md",
-    "Write-up/Agent T.md",
-    "Write-up/Bedside.md",
-    "Write-up/Brooklyn Nine Nine.md",
-    "Write-up/Cap.md",
-    "Write-up/Cohort.md",
-    "README.md",
     "Cheatsheet/Using the Metasploit Framework - cheatsheet.pdf",
     "Cheatsheet/Getting Started - cheatsheet.pdf",
     "Cheatsheet/Information Gathering - Web Edition - cheatsheet.pdf",
@@ -250,7 +251,6 @@
     "Tools",
     "Web Pentest",
     "Enumeration",
-    "Cheatsheet/Chuông Báo Thức Quân Đội.mp3",
-    "Cheatsheet/Không được xác nhận 587340.crdownload"
+    "Cheatsheet/Chuông Báo Thức Quân Đội.mp3"
   ]
 }

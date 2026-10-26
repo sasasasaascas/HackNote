@@ -29,7 +29,7 @@
 - Nhược điểm:
 	- Ít thông tin, có thể không đúng, mơ hồ
 
-# Active Reconnaisance
+## Active Reconnaisance
 
 
 - Welp chúng ta tương tác với hệ thống, gửi gói báo động blah blah các thứ với mục đích tìm hiểu sâu vào hệ thống đó.

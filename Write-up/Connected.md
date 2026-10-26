@@ -61,3 +61,4 @@ và.... chúng ta có root!
 - bỏ bớt incron không cần thiết.
 
 
+
