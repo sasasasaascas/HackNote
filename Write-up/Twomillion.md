@@ -1,4 +1,5 @@
 
+
 ![[Pasted image 20261016231159.png]]
 
 
@@ -183,3 +184,30 @@ thế là về cơ bản chúng ta có root
 
 - Sử dụng luật và filter để tránh code injection tại các endpoints, thiết lập tường lửa đánh chặn, lọc các input độc hại
 
+
+# Unintended vector
+
+Thực tế ra bài này có cách khác: từ www-data sau khi làm bước trên chúng ta chỉ cần vector duy nhất
+
+root: GLIBC library 2.35 => CVE-2023-4911 Looney Tunables => root
+
+
+sử dụng POC này https://github.com/NishanthAnand21/CVE-2023-4911-PoC bạn chỉ cần làm theo các bước và sẽ có quyền root
+
+
+Bằng chứng exploitable
+![[Pasted image 20261028125240.png]]
+
+
+![[Pasted image 20261028125754.png]]
+
+các bước làm bao gồm
+- tải file exploit.c và genlib.py lên máy mục tiêu
+- gcc exploit.c -o ten_binary
+- python3 genlib.py
+- ./ten_binary
+
+
+và..... tôi có root
+
+![[Pasted image 20261028131830.png]]
