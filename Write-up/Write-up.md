@@ -39,5 +39,6 @@
 
 ## [[Bedside]]
 
+## [[Odori]]
 
 ## [[Principal]]
