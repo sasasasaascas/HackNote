@@ -33,6 +33,13 @@
 
 ## [[Twomillion]]
 
+## [[Lame]]
+
+## [[Soccer]]
+
+## [[CodePartTwo]]
+
+
 # Hackthebox - medium
 
 ## [[Devhub]]
