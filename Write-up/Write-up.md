@@ -37,9 +37,11 @@
 
 ## [[Soccer]]
 
+## [[Code]]
+
 ## [[CodePartTwo]]
 
-
+## [[Cicada]] : Active Directory
 # Hackthebox - medium
 
 ## [[Devhub]]
@@ -49,3 +51,6 @@
 ## [[Odori]]
 
 ## [[Principal]]
+
+## [[DevOops]]
+
