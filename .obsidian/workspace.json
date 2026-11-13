@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write-up/Data.md",
+                "file": "Write-up/Write-up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data"
+              "title": "Write-up"
             }
           }
         ]
@@ -189,17 +189,27 @@
       "bases:Tạo cơ sở mới": false
     }
   },
-  "active": "81a6e45340d24eaa",
+  "active": "7e504415bc5903cb",
   "lastOpenFiles": [
+    "images/Pasted image 20261114005114.png",
+    "Write-up/Cicada.md",
+    "Pasted image 20261114005114.png",
+    "system.hive",
+    "sam.hive",
+    "Backup_script.ps1",
+    "user.txt",
+    "Notice from HR.txt",
+    "Write-up/Cap.md",
+    "Write-up/Brooklyn Nine Nine.md",
+    "Write-up/Bedside.md",
+    "Write-up/CodePartTwo.md",
+    "Write-up/Connected.md",
+    "Write-up/Data.md",
     "images/Pasted image 20261113163707.png",
     "Write-up/Write-up.md",
-    "Write-up/Data.md",
     "Write-up/Twomillion.md",
     "Write-up/Touch.md",
     "Write-up/Soccer.md",
-    "Write-up/Bedside.md",
-    "Write-up/Cicada.md",
-    "Write-up/CodePartTwo.md",
     "Write-up/Principal.md",
     "Write-up/Devhub.md",
     "Write-up/DevOops.md",
@@ -213,10 +223,7 @@
     "Write-up/Code.md",
     "Pasted image 20261112202423.png",
     "Write-up/Cohort.md",
-    "Write-up/Connected.md",
     "Write-up/Enigma.md",
-    "Write-up/Brooklyn Nine Nine.md",
-    "Write-up/Cap.md",
     "images/Pasted image 20261111235553.png",
     "images/Pasted image 20261111235506.png",
     "images/Pasted image 20261111235241.png",
@@ -224,18 +231,11 @@
     "images/Pasted image 20261111234426.png",
     "images/Pasted image 20261111234342.png",
     "images/Pasted image 20261111234203.png",
-    "images/Pasted image 20261111233751.png",
-    "images/Pasted image 20261111233435.png",
     "Write-up/Orion.md",
     "Privilege Escalation/Linux/Linux Enumeration",
     "Active Directory and Pivoting, Tunneling, port forwarding",
     "Cheatsheet/Using the Metasploit Framework - cheatsheet.pdf",
     "Cheatsheet/Getting Started - cheatsheet.pdf",
-    "Cheatsheet/Information Gathering - Web Edition - cheatsheet.pdf",
-    "Cheatsheet/Attacking Web Applications with Ffuf - cheatsheet.pdf",
-    "Tools",
-    "Web Pentest",
-    "Enumeration",
-    "Cheatsheet/Chuông Báo Thức Quân Đội.mp3"
+    "Cheatsheet/Information Gathering - Web Edition - cheatsheet.pdf"
   ]
 }
