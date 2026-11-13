@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cicada.md",
+                "file": "Write-up/Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cicada"
+              "title": "Data"
             }
           }
         ]
@@ -189,27 +189,32 @@
       "bases:Tạo cơ sở mới": false
     }
   },
-  "active": "7e504415bc5903cb",
+  "active": "81a6e45340d24eaa",
   "lastOpenFiles": [
+    "images/Pasted image 20261113163707.png",
     "Write-up/Write-up.md",
-    "Cicada.md",
-    "Write-up/Code.md",
-    "Write-up/DevOops.md",
-    "Pasted image 20261112202423.png",
+    "Write-up/Data.md",
+    "Write-up/Twomillion.md",
+    "Write-up/Touch.md",
+    "Write-up/Soccer.md",
+    "Write-up/Bedside.md",
+    "Write-up/Cicada.md",
     "Write-up/CodePartTwo.md",
-    "Write-up/Cohort.md",
-    "Write-up/Connected.md",
+    "Write-up/Principal.md",
     "Write-up/Devhub.md",
-    "Write-up/Enigma.md",
+    "Write-up/DevOops.md",
     "Write-up/Fools Mate.md",
     "Write-up/Lame.md",
     "Write-up/Management.md",
     "Write-up/Nibbles.md",
     "Write-up/Odori.md",
-    "Write-up/Principal.md",
-    "Write-up/Touch.md",
-    "Write-up/Twomillion.md",
     "Write-up/Pickle Rick.md",
+    "Cicada.md",
+    "Write-up/Code.md",
+    "Pasted image 20261112202423.png",
+    "Write-up/Cohort.md",
+    "Write-up/Connected.md",
+    "Write-up/Enigma.md",
     "Write-up/Brooklyn Nine Nine.md",
     "Write-up/Cap.md",
     "images/Pasted image 20261111235553.png",
@@ -222,11 +227,6 @@
     "images/Pasted image 20261111233751.png",
     "images/Pasted image 20261111233435.png",
     "Write-up/Orion.md",
-    "Write-up/Bedside.md",
-    "README.md",
-    "Enumeration/Enumeration.md",
-    "Privilege Escalation/Linux/Linux Enumeration/Linux Enumeration.md",
-    "Privilege Escalation/Linux/Linux Enumeration/Environment Enumeration.md",
     "Privilege Escalation/Linux/Linux Enumeration",
     "Active Directory and Pivoting, Tunneling, port forwarding",
     "Cheatsheet/Using the Metasploit Framework - cheatsheet.pdf",

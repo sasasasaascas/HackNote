@@ -16,6 +16,7 @@
 
 # Hackthebox - easy
 
+## [[Data]]
 
 ## [[Enigma]]
 
