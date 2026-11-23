@@ -43,6 +43,12 @@
 ## [[CodePartTwo]]
 
 ## [[Cicada]] : Active Directory
+
+## [[Dog]]
+
+## [[Busqueda]]
+
+
 # Hackthebox - medium
 
 ## [[Devhub]]
