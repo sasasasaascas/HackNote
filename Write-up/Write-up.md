@@ -48,6 +48,8 @@
 
 ## [[Busqueda]]
 
+## [[Planning]]
+
 
 # Hackthebox - medium
 
@@ -60,4 +62,3 @@
 ## [[Principal]]
 
 ## [[DevOops]]
-
